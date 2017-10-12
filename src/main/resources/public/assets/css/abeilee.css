@@ -1,0 +1,9 @@
+
+#logo{
+	content : "En construction";
+	background:url("../images/abeille.png") no-repeat;
+	margin: auto;
+	width: 1000px;
+	height: 1000px;
+	padding-top: 75px;
+}
