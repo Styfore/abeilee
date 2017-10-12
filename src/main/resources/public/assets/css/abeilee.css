@@ -4,6 +4,24 @@
 	background:url("../images/abeille.png") no-repeat;
 	margin: auto;
 	width: 1000px;
-	height: 1000px;
+	height: 600px;
 	padding-top: 75px;
+}
+
+#quotes{
+	margin:auto;
+	width: 1000px;
+}
+#quotes > q {
+	color: grey;
+	font-weight: bold;
+	font-size:0.8em;
+	font-family: sans-serif;
+}
+
+#quotes > span.auteur {
+	color: black;
+	font-size: 0.7em;
+	font-weight: normal;
+	font-family: sans-serif;
 }
